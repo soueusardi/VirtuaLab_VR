@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# VirtuaLab: registros das sessoes (dados de participantes) e cena de recuperacao do Unity
+/[Rr]egistrosSessoes/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# Pasta temporaria criada pelo Unity fora de Assets
+/GeneratedAssets/
