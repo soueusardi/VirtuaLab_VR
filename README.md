@@ -79,5 +79,5 @@ Assets/
 
 ## Situação
 
-Lógica verificada por testes automatizados. Teste no headset e avaliação com usuários em andamento
+Avaliação com usuários em andamento
 (novembro/2026).
